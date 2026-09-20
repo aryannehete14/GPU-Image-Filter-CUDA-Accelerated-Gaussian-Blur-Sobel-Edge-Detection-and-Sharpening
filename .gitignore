@@ -1,0 +1,10 @@
+# Build artifacts
+gpu_image_filter
+*.o
+
+# Keep sample data / outputs out of git if they're large; comment these
+# out if your rubric requires committing proof-of-execution images.
+# data/*.ppm
+# output/*.ppm
+
+.DS_Store
